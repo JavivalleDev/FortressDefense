@@ -1,0 +1,9 @@
+
+//Storage
+//Todo: Destruccion del finalTarget - WIN
+//Desactivar placepoints de murallas destruidas, que las unidades que esten sobre ellas.. mueran? xD
+//Asociar torres y colliders de las murallas a sus respectivas murallas para que se activen y desactiven cuando deban//Recordar tambien los placepoints
+//Que los arqueros tiren flechas xD
+//particulas
+//sonido
+//Balanceo

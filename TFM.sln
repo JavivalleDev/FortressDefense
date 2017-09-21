@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFM", "TFM.csproj", "{F4F2FF9E-54DF-6AF7-40A6-15F75EA677D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFM.Editor", "TFM.Editor.csproj", "{94F9A224-B084-329D-E2D8-4181682041B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F2FF9E-54DF-6AF7-40A6-15F75EA677D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F2FF9E-54DF-6AF7-40A6-15F75EA677D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F2FF9E-54DF-6AF7-40A6-15F75EA677D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F2FF9E-54DF-6AF7-40A6-15F75EA677D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F9A224-B084-329D-E2D8-4181682041B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F9A224-B084-329D-E2D8-4181682041B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F9A224-B084-329D-E2D8-4181682041B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F9A224-B084-329D-E2D8-4181682041B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

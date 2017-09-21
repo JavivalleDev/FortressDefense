@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 06decfad6d29f4e4997d12efe9b2501c
+timeCreated: 1498496926
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_ACOMPLADO_0
+    21300002: UI_ACOMPLADO_1
+    21300004: UI_ACOMPLADO_2
+    21300006: UI_ACOMPLADO_3
+    21300008: UI_ACOMPLADO_4
+    21300010: UI_ACOMPLADO_5
+    21300012: UI_ACOMPLADO_6
+    21300014: UI_ACOMPLADO_7
+    21300016: UI_ACOMPLADO_8
+    21300018: UI_ACOMPLADO_9
+    21300020: UI_ACOMPLADO_10
+    21300022: UI_ACOMPLADO_11
+    21300024: UI_ACOMPLADO_12
+    21300026: UI_ACOMPLADO_13
+    21300028: UI_ACOMPLADO_14
+    21300030: UI_ACOMPLADO_15
+    21300032: UI_ACOMPLADO_16
+    21300034: UI_ACOMPLADO_17
+    21300036: UI_ACOMPLADO_18
+    21300038: UI_ACOMPLADO_19
+    21300040: UI_ACOMPLADO_20
+    21300042: UI_ACOMPLADO_21
+    21300044: UI_ACOMPLADO_22
+    21300046: UI_ACOMPLADO_23
+    21300048: UI_ACOMPLADO_24
+    21300050: UI_ACOMPLADO_25
+    21300052: UI_ACOMPLADO_26
+    21300054: UI_ACOMPLADO_27
+    21300056: UI_ACOMPLADO_28
+    21300058: UI_ACOMPLADO_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4599
+        width: 713
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 4596
+        width: 710
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_2
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 4528
+        width: 163
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_3
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 4527
+        width: 1930
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4127
+        width: 530
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 4137
+        width: 258
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_6
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 4137
+        width: 259
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_7
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 4395
+        width: 267
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_8
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4397
+        width: 412
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_9
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 4303
+        width: 1930
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_10
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 4280
+        width: 267
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_11
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4282
+        width: 414
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_12
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 4160
+        width: 267
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_13
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4165
+        width: 414
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_14
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 4041
+        width: 1944
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3651
+        width: 631
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_16
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3841
+        width: 805
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_17
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 3349
+        width: 784
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3675
+        width: 805
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3338
+        width: 523
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_20
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 3302
+        width: 616
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2840
+        width: 1949
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_22
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 2840
+        width: 1949
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 246
+        width: 807
+        height: 2565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_24
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2633
+        width: 804
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_25
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 1596
+        width: 774
+        height: 1161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_26
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 41
+        width: 807
+        height: 2564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_27
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 56
+        width: 806
+        height: 2565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_28
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 264
+        width: 774
+        height: 1163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UI_ACOMPLADO_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3301
+        width: 593
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
